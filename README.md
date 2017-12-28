@@ -1,6 +1,6 @@
 # Wavy Checkerboard in Matplotlib
 
-Recreating a <a href src='https://www.dwitter.net/d/701'> dwitter post </a> in matplotlib
+Recreating a [dwitter post](https://www.dwitter.net/d/701) in matplotlib
 
 
 
